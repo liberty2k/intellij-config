@@ -636,6 +636,9 @@
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
       <value />
     </option>
+    <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
+      <value />
+    </option>
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="800080" />
